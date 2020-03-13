@@ -10,3 +10,33 @@ h1{
 h2{
     color: rgb(190, 59, 59);
 }
+
+
+ul li{
+  font-size: 15px;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+
+a link{
+color: black;
+}
+
+
+a:hover{
+  color: red;
+  font-size: 20px;
+
+}
+
+a:active{
+  color:  blue;
+  font-size: 25px;
+}
+
+
+a:visited{
+  color: gray;
+  font-size: 13px;
+}

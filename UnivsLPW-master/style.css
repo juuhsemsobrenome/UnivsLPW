@@ -1,42 +1,23 @@
 h1{ 
-  background-color: crimson;
-  border-style: solid;
-  margin-left: 50px; 
+  background-color: blue;
+  color: white;
+  margin-left: 10px; 
   margin-right: 50px;
-  margin-top: 50px;
+  margin-top: 20px;
   padding-left: 20px;
-  color: blanchedalmond;
+
 }
+
+
+
 h2{
-    color: rgb(190, 59, 59);
+  background-color: black;
+  color: white;
+  margin-right: 600px;
+ padding-left: 300px;
 }
 
-
-ul li{
-  font-size: 15px;
-  text-align: left;
+ol li{
   text-transform: uppercase;
-}
 
-
-a link{
-color: black;
-}
-
-
-a:hover{
-  color: red;
-  font-size: 20px;
-
-}
-
-a:active{
-  color:  blue;
-  font-size: 25px;
-}
-
-
-a:visited{
-  color: gray;
-  font-size: 13px;
 }
